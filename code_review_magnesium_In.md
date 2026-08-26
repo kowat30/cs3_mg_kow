@@ -46,8 +46,6 @@ target \= 47
 
 Which algorithm is faster when the list of numbers is very large? Why?
 
-Which algorithm is faster when the list of numbers is very large? Why?
-
 In a long list, Implementation 2 would be faster. Since it is binary search, it continuously halves the list making operations faster. However, for linear search, it goes through each element one by one making it less efficient and not as fast.
 
 
